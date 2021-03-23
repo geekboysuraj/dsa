@@ -18,3 +18,35 @@ int main(){
 
     return 0;
 }
+
+
+
+
+//Method 2nd
+
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main(){
+    string s;
+    cin>>s;
+    int rev=0;
+	int last=s.size()-1;
+    for(int i=0;i<s.size()/2;++i){
+        
+			if(s[i]==s[last]){
+				rev++;
+				}
+		last--;
+    }
+    if(rev==s.size()/2){
+        cout <<"YES"<< endl;
+        }
+    else{
+        cout <<"NO"<< endl;
+        }
+
+    return 0;
+}
