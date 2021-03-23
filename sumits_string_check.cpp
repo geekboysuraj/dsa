@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/sumits-string/
+
 #include <iostream>
 #include <string>
 #include <math.h>
