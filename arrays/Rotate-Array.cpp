@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1#
+//https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0
 
 #include<bits/stdc++.h>
 using namespace std;
