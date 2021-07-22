@@ -1,4 +1,4 @@
-//stack implementation using Linked List    
+//Stack Implementation using Linked List    
 
 #include <bits/stdc++.h>
 using namespace std;
